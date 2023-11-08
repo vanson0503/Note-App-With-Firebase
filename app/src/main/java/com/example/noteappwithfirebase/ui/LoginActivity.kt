@@ -36,6 +36,9 @@ class LoginActivity : AppCompatActivity() {
                            finish()
                        }
                    }
+                   .addOnFailureListener {
+                       Toast.makeText(this, "Email or password is incorrect!", Toast.LENGTH_SHORT).show()
+                   }
            }
            else{
                Toast.makeText(this, "Data is not empty!", Toast.LENGTH_SHORT).show()
