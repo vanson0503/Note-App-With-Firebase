@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NOTELY</string>
+    <string name="world_s_safest">World’s Safest And Largest Digital Notebook</string>
+    <string name="notely_is_the_world">Notely is the world’s safest, largest and intelligent digital notebook. Join over 10M+ users already using Notely.</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="create_a_free_account">Create a free account</string>
+    <string name="join_notely_for_free">Join Notely for free. Create and share unlimited notes with your friends.</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="create_a_note">Create A Note</string>
+    <string name="all_notes">All Notes</string>
+    <string name="create_your_first_note">Create Your First Note</string>
+    <string name="add_a_note">Add a note about anything (your thoughts on climate change, or your history essay) and share it witht the world.</string>
+    <string name="title_example">Cerebral palsy sport</string>
+    <string name="content_example">Cerebral palsy sport classification is a classification system used by sports that include people with cerebral palsy (CP) with different degrees of severity to compete fairly against each...</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_title">Enter title</string>
+    <string name="name_example">Shambhavi Mishra</string>
+    <string name="email_example">example@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="not_registered">Not Registered? Create an account</string>
+    <string name="enter_content">Enter content</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
